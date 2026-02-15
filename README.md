@@ -1,16 +1,70 @@
 ## Hi there 👋
 
-<!--
-**Roshani2505/Roshani2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Roshani</h1>
+<h3 align="center">BCA Student | Full-Stack Developer | MERN Stack Learner</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Passionate about building scalable and user-friendly web applications  
+💻 Strong foundation in C, Python & Web Technologies  
+🚀 Currently building a Full-Stack Skill Exchange Platform  
+📍 New Delhi, India  
+
+---
+
+## 🚀 About Me
+
+- 🎓 Pursuing BCA (IGNOU) & Diploma in Computer Science Engineering
+- 🌱 Currently improving Backend & Database skills
+- 🔥 Interested in Full-Stack Development & Software Engineering
+- 🎯 Short-Term Goal: Become proficient in MERN Stack & Backend Systems
+- 🏆 Long-Term Goal: Work at a reputed Software Development Company
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+C | Python | JavaScript  
+
+### 🌐 Frontend
+HTML | CSS | React.js  
+
+### ⚙️ Backend
+Node.js | Express.js  
+
+### 🗄️ Database
+MongoDB  
+
+### 🔧 Tools
+Git | GitHub | VS Code  
+
+---
+
+## 📌 Featured Project
+
+### 🌍 Skill Exchange Platform (Full-Stack)
+A web platform where users can exchange skills, collaborate, and grow together.
+
+🔹 User Authentication  
+🔹 Profile Creation  
+🔹 Skill Listing & Matching  
+🔹 Backend API Integration  
+🔹 Database Management  
+
+---
+
+## 📊 GitHub Activity
+
+Consistency is key. I believe in learning by building and improving every day.
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: Roshanikumari250305@gmail.com  
+📱 Open to internships & entry-level developer roles  
+
+---
+
+⭐ "Code. Learn. Build. Improve. Repeat."
