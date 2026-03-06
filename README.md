@@ -34,7 +34,7 @@ HTML | CSS | React.js
 Node.js | Express.js  
 
 ### 🗄️ Database
-MongoDB  
+MongoDB | Supabase-Postgress SQL
 
 ### 🔧 Tools
 Git | GitHub | VS Code  
